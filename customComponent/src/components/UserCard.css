@@ -1,0 +1,22 @@
+.user-container {
+  height: 220px;
+  width: 140px;
+  border-radius: 12px;
+  background: #b09597;
+  text-align: center;
+  color: #181515;
+  margin: 12px;
+  display: flex;
+  flex-direction: column;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#user-img {
+  gap: 20px;
+  height: 110px;
+  width: 110px;
+  border-radius: 50%;
+  margin: 8px;
+}
